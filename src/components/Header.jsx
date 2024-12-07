@@ -4,6 +4,7 @@ const Header = () => (
       <nav>
         <a href="/" className="mx-2">Home</a>
         <a href="/products" className="mx-2">Products</a>
+        <a href="/about" className="mx-2">About</a>
       </nav>
     </header>
   );
